@@ -1,4 +1,4 @@
-|Dataset | Data type | Scenes | Annotation | Task | \#Examples/\#Classes | SOTA/benchmark  |
+|Dataset | Data type | Scenes | Annotation | Task | \#Examples/<br/>\#Classes | SOTA/<br/>benchmark  |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |[KTH](http://www.nada.kth.se/cvap/actions/)| Trimmed-video | Daily Living | Video-level | Action Recognition | 2391/<br/>6 | 98.9% |
 |[Collective Activity](http://vhosts.eecs.umich.edu/vision//activity-dataset.html)| Trimmed-video | Daily Living | Person/Group-level | Group ActivityRecognition | 44/<br/>5 | 91.0% |
