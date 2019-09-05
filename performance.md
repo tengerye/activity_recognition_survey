@@ -27,31 +27,32 @@
 |ARG.(2019) | Graph-Conv, CNN | Sequential-based/<br/>Sampling | 91.0\%(Collective Activity), 92.6\%(Volleyball)  |
 |AdaFrame.(2019) | CNN, LSTM | Sequential-based/<br/>RNN | 80.2\%(FCVID), 71.5\%(ActivityNet)  |
 |CoST.(2019) | CNN | View-based/<br/>Combination | 77.5\%(Kinetics), 32.4\%(Moments in Time)  |
--Learning Actor Relation Graphs for Group Activity Recognition | 2019
--Potion: Pose motion representation for action recognition | 2018
--D3tw: Discriminative differentiable dynamic time warping for weakly supervised action alignment and segmentation | 2019
--Quo vadis, action recognition? a new model and the kinetics dataset | 2017
--Untrimmednets for weakly supervised action recognition and detection | 2017
--Cascaded Pyramid Mining Network for Weakly Supervised Temporal Action Localization | 2018
--Two-stream convolutional networks for action recognition in videos | 2014
--Contextual action recognition with r* cnn | 2015
--Convolutional two-stream network fusion for video action recognition | 2016
--Learnable pooling with context gating for video classification | 2017
--Deep local video feature for action recognition | 2017
--Deep temporal linear encoding networks | 2017
--Sequential deep learning for human action recognition | 2011
--Long-term recurrent convolutional networks for visual recognition and description | 2015
--Temporal segment networks: Towards good practices for deep action recognition | 2016
--3D convolutional neural networks for human action recognition | 2012
--Learning spatiotemporal features with 3d convolutional networks | 2015
--Collaborative Spatiotemporal Feature Learning for Video Action Recognition | 2019
--AdaFrame: Adaptive Frame Selection for Fast Video Recognition | 2019
--Deep, convolutional, and recurrent models for human activity recognition using wearables | 2016
--Aenet: Learning deep audio features for video analysis | 2017
--Actions and attributes from wholes and parts | 2015
--PM-GANs: Discriminative Representation Learning for Action Recognition Using Partial-modalities | 2018
--Eco: Efficient convolutional network for online video understanding | 2018
--Large-scale video classification with convolutional neural networks | 2014
--Human action recognition using factorized spatio-temporal convolutional networks | 2015
--Learning spatio-temporal representation with pseudo-3d residual networks | 2017
--A closer look at spatiotemporal convolutions for action recognition | 2018
+
+- Learning Actor Relation Graphs for Group Activity Recognition | 2019
+- Potion: Pose motion representation for action recognition | 2018
+- D3tw: Discriminative differentiable dynamic time warping for weakly supervised action alignment and segmentation | 2019
+- Quo vadis, action recognition? a new model and the kinetics dataset | 2017
+- Untrimmednets for weakly supervised action recognition and detection | 2017
+- Cascaded Pyramid Mining Network for Weakly Supervised Temporal Action Localization | 2018
+- Two-stream convolutional networks for action recognition in videos | 2014
+- Contextual action recognition with r* cnn | 2015
+- Convolutional two-stream network fusion for video action recognition | 2016
+- Learnable pooling with context gating for video classification | 2017
+- Deep local video feature for action recognition | 2017
+- Deep temporal linear encoding networks | 2017
+- Sequential deep learning for human action recognition | 2011
+- Long-term recurrent convolutional networks for visual recognition and description | 2015
+- Temporal segment networks: Towards good practices for deep action recognition | 2016
+- 3D convolutional neural networks for human action recognition | 2012
+- Learning spatiotemporal features with 3d convolutional networks | 2015
+- Collaborative Spatiotemporal Feature Learning for Video Action Recognition | 2019
+- AdaFrame: Adaptive Frame Selection for Fast Video Recognition | 2019
+- Deep, convolutional, and recurrent models for human activity recognition using wearables | 2016
+- Aenet: Learning deep audio features for video analysis | 2017
+- Actions and attributes from wholes and parts | 2015
+- PM-GANs: Discriminative Representation Learning for Action Recognition Using Partial-modalities | 2018
+- Eco: Efficient convolutional network for online video understanding | 2018
+- Large-scale video classification with convolutional neural networks | 2014
+- Human action recognition using factorized spatio-temporal convolutional networks | 2015
+- Learning spatio-temporal representation with pseudo-3d residual networks | 2017
+- A closer look at spatiotemporal convolutions for action recognition | 2018
